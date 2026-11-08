@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Environments
+venv/
+env/
+.env
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
